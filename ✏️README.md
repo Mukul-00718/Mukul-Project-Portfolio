@@ -6,14 +6,6 @@ These projects reflect what I genuinely enjoy building and the skills I’ve dev
 
 ---
 
-## 📡 Microstrip Patch Antenna using HFSS (2.45 GHz)
-I designed and simulated a rectangular patch antenna in HFSS for the 2.45 GHz ISM band.  
-The project covers S11 tuning, gain improvement, radiation pattern analysis, and understanding how small design changes affect performance.
-
-Folder link: /Microstrip-Patch-Antenna-HFSS
-
----
-
 ## 🎵 Mood-Based Melody Music System (Python)
 A small but fun Python project where the program picks songs based on the user’s mood (happy, sad, or neutral).  
 This helped me practice Python fundamentals and user interaction.
